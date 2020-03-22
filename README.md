@@ -103,6 +103,10 @@
 - Časomíra
   - Důležitost - nízká
   - Od prvního kliknutí na hrací pole začne běžet časomíra. Časomíra se zastaví buď když uživatel prohraje a nebo když dokončí hru.
+
+- Míra úspěchu
+  - Důležitost - nízká
+  - Po vyhrání hry se zobrazí statistika, která ukazuje, míru uspěchu dokončení hry v _%_
   
   
 
