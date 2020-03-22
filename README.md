@@ -91,6 +91,20 @@
   - Vysoká
   - Střední
   - Nízká
+ 
+- Vykreslení hracího pole
+  - Důležitost - vysoká
+  - Vykreslení hracího pole se zahájí kliknutím na tlačíko _Start hry_
+  
+- Položení vlaječky
+  - Důležitost - střední
+  - Vlaječka se položí pravým kliknutím myši na nevyužité políčko
+  
+- Časomíra
+  - Důležitost - nízká
+  - Od prvního kliknutí na hrací pole začne běžet časomíra. Časomíra se zastaví buď když uživatel prohraje a nebo když dokončí hru.
+  
+  
 
 
 
