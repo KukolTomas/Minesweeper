@@ -27,4 +27,5 @@
 - "P" - pauza hry
 
 ## 2.1 Produkt jako celek
+- Hrací plocha
 ![Návrh, jak by mohla vypadat hrací plocha](https://github.com/KukolTomas/Minesweeper/blob/master/minesweeper%20hrac%C3%AD%20plocha.png)
