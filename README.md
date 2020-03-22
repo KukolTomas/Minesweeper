@@ -31,3 +31,44 @@
 
 
 ![Winning screen](https://github.com/KukolTomas/Minesweeper/blob/master/n%C4%9Bco%20jako%20winning%20screen.png)
+------------------------------------------
+
+## 2.2 Funkce
+- odkrytí políčka
+- položení vlaječky
+- pauza hry
+- start/konec hry
+- nápověda
+- tabulka nejrychlejších řešitelů
+- výherní okno
+------------------------------------------
+
+## 2.3 Uživatelské skupiny
+- Hráč
+------------------------------------------
+
+## 2.4 Provozní prostředí
+- uživatelovo lokální úložiště
+------------------------------------------
+
+## 2.5 Uživatelské prostředí
+![Uživatelské prostředí](https://github.com/KukolTomas/Minesweeper/blob/master/minesweeper%20hrac%C3%AD%20plocha.png)
+
+------------------------------------------
+
+## 2.6 Omezení návrhu a implementace
+- program nefunguje po síti
+- hra nenabízí funkci více hráčů
+- není implementována umělá inteligence
+- žádné mikrotransakce
+------------------------------------------
+
+## 2.7 Předpoklady a závislosti
+- Levý klik myši - odhalení políčka
+- Pravý klik myši - položení vlaječky
+- P - pauza hry
+- Spuštění hry tlačítkem _Start hry_
+- Uobrazení výherního okna - správné odkrytí všech políček
+
+
+
