@@ -13,7 +13,11 @@
 
 ## 1.2 Pro koho je dokument určený
 - určen pro všechny budou hráče a mě, jako autora
+------------------------------------------
 
 ## 1.3 Kontakty
 - email : kukol.tomas@gmail.com
-- Adresa : 
+- Adresa : Preslova 25, 150 21 Praha 5-Smíchov
+- facebook : facebook.com/kukol.tomas
+------------------------------------------
+
