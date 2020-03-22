@@ -27,4 +27,4 @@
 - "P" - pauza hry
 
 ## 2.1 Produkt jako celek
-
+![Návrh, jak by mohla vypadat hrací plocha]()
