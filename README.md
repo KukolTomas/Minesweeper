@@ -107,6 +107,37 @@
 - Míra úspěchu
   - Důležitost - nízká
   - Po vyhrání hry se zobrazí statistika, která ukazuje, míru uspěchu dokončení hry v _%_
+  ------------------------------------------
+  
+# 5. Nefunkční požadavky
+------------------------------------------
+
+## 5.1 Výkonnost
+- Minimální požadavky pro hraní : 
+  - OS : Windows 7/8/10 - 64 bit
+  - Procesor : 2 GHz Intel Pentium 4 nebo ekvivalent
+  - Paměť : 512 MB RAM
+  - Grafická karta : Intel HD graphics
+  - Pevný disk - 50 MB volného místa
+------------------------------------------
+
+## 5.2 Bezpečnost
+- žádná autorizace
+- žádná autentizace
+- zádné cookies/ osobní údaje
+- žádné mikrotransakce
+------------------------------------------
+
+## 5.3 Spolehlivost
+- Program 1. z 10000 spuštění spadne s chybou
+- 0,01 % šance na chybu
+------------------------------------------
+
+## 5.4 Projektová dokumentace
+ <!---Zatím žádná není --> 
+
+
+
   
   
 
