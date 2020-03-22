@@ -41,6 +41,7 @@
 - nápověda
 - tabulka nejrychlejších řešitelů
 - výherní okno
+- míra úspěchu
 ------------------------------------------
 
 ## 2.3 Uživatelské skupiny
@@ -68,7 +69,31 @@
 - Pravý klik myši - položení vlaječky
 - P - pauza hry
 - Spuštění hry tlačítkem _Start hry_
-- Uobrazení výherního okna - správné odkrytí všech políček
+- Zobrazení výherního okna - správné odkrytí všech políček
+- Konec hry - Odhalení miny levým tlačítkem myši
+------------------------------------------
+
+# 3. Požadavky na rozhraní
+------------------------------------------
+
+## 3.1 Uživatelská rozhraní
+- Windows
+------------------------------------------
+
+## 3.2 Hardwarová rozhraní
+- myš
+- klávesnice
+- monitor
+------------------------------------------
+
+# 4. Vlastnosti systému
+- Důležitost :
+  - Vysoká
+  - Střední
+  - Nízká
+
+
+
 
 
 
