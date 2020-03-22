@@ -12,7 +12,7 @@
 ------------------------------------------
 
 ## 1.2 Pro koho je dokument určený
-- určen pro všechny budou hráče a mě, jako autora
+- určen pro všechny hráče a mě, jako autora
 ------------------------------------------
 
 ## 1.3 Kontakty
