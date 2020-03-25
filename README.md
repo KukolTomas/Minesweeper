@@ -25,10 +25,7 @@
 ------------------------------------------
 
 # 2. Celkový popis
-- cílem hry je odkrýt všechny políčka,kde nejsou miny
-- levý klik myši - odkrytí políčka
-- pravý klik myši - položení vlaječky
-- "P" - pauza hry
+------------------------------------------
 
 ## 2.1 Produkt jako celek
 - Hra se bude hrát na poli o velikosti buď 9x9, 16x16 a nebo 30x16, záleží, jakou si vybere uživatel obtížnost. Cílem hry je odkrýt všechny políčka, kde miny nejsou. Odkrytí políčka se dosáhne levým klikem myši. Jestliže má uživatel podezření, že v políčku je bomba, může tam položit pravým tlačítkem myši vlaječku a tím tak bombu označit. Zároveň hra bude nabízet možnost pauzy a v horním pravém rohu bude časomíra, která bude měřit čas, jak dlouho již uživatel danou partii hraje. Mimo jiné hra bude nabízet možnost nápovědy, kdy při kliknutí na tlačítko otazníčku se zobrazí herní guide.
