@@ -49,7 +49,7 @@
 ------------------------------------------
 
 ## 2.4 Provozní prostředí
-- uživatelovo lokální úložiště
+- Windows
 ------------------------------------------
 
 ## 2.5 Uživatelské prostředí
