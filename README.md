@@ -12,7 +12,7 @@
 ------------------------------------------
 
 ## 1.2 Pro koho je dokument určený
-- určen pro všechny hráče a mě, jako autora
+- Dokument je určen pro vývojáře, samotná hra slouží hráčům
 ------------------------------------------
 
 ## 1.3 Kontakty
@@ -31,10 +31,8 @@
 - "P" - pauza hry
 
 ## 2.1 Produkt jako celek
-![Návrh, jak by mohla vypadat hrací plocha](https://github.com/KukolTomas/Minesweeper/blob/master/minesweeper%20hrac%C3%AD%20plocha.png)
+- Hra se bude hrát na poli o velikosti buď 9x9, 16x16 a nebo 30x16, záleží, jakou si vybere uživatel obtížnost. Cílem hry je odkrýt všechny políčka, kde miny nejsou. Odkrytí políčka se dosáhne levým klikem myši. Jestliže má uživatel podezření, že v políčku je bomba, může tam položit pravým tlačítkem myši vlaječku a tím tak bombu označit. Zároveň hra bude nabízet možnost pauzy a v horním pravém rohu bude časomíra, která bude měřit čas, jak dlouho již uživatel danou partii hraje. Mimo jiné hra bude nabízet možnost nápovědy, kdy při kliknutí na tlačítko otazníčku se zobrazí herní guide.
 
-
-![Winning screen](https://github.com/KukolTomas/Minesweeper/blob/master/n%C4%9Bco%20jako%20winning%20screen.png)
 ------------------------------------------
 
 ## 2.2 Funkce
