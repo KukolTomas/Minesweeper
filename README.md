@@ -20,6 +20,10 @@
 - Adresa : Preslova 25, 150 21 Praha 5-Smíchov
 - facebook : facebook.com/kukol.tomas
 ------------------------------------------
+
+## 1.4 Odkazy na ostatní dokumenty
+------------------------------------------
+
 # 2. Celkový popis
 - cílem hry je odkrýt všechny políčka,kde nejsou miny
 - levý klik myši - odkrytí políčka
