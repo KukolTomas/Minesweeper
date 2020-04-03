@@ -64,8 +64,10 @@
 ------------------------------------------
 
 ## 3.1 Pracovní tok
-
-
+- idea
+- vývoj
+- testování
+- release
 ------------------------------------------
 
 ## 3.2 Hlavní moduly
@@ -73,6 +75,9 @@
 ------------------------------------------
 
 ## 3.3 Všechny detaily : obrazovky, okna, tisky, chybové zprávy, logování
+ - ![Návrh, jak by mohla vypadat hrací plocha](https://github.com/KukolTomas/Minesweeper/blob/master/minesweeper%20hrac%C3%AD%20plocha.png )
+- ![Winning screen](https://github.com/KukolTomas/Minesweeper/blob/master/n%C4%9Bco%20jako%20winning%20screen.png)
+- ![Losing screen](https://github.com/KukolTomas/Minesweeper/blob/master/minesweeperLose.png "Test")
 
 ------------------------------------------
 
