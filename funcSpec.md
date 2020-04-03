@@ -92,7 +92,12 @@
 ------------------------------------------
 
 ## 3.5 Všechny dohodnuté principy
-
+- Levý klik myši - odhalení políčka
+- Pravý klik myši - položení vlaječky
+- P - pauza hry
+- Spuštění hry tlačítkem _Start hry_
+- Zobrazení výherního okna - správné odkrytí všech políček
+- Konec hry - Odhalení miny levým tlačítkem myši
 ------------------------------------------
 
 # 4. Otevřené otázky
