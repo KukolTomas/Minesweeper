@@ -30,7 +30,7 @@
 ------------------------------------------
 
 ## 2.1 Všechny reálné způsoby využití
-
+- Jediné reálně využití je hraní
 
 ------------------------------------------
 
@@ -40,16 +40,23 @@
 ------------------------------------------
 
 ## 2.3 Detaily, motivace, "živé" příklady
-- ![Návrh, jak by mohla vypadat hrací plocha](https://github.com/KukolTomas/Minesweeper/blob/master/minesweeper%20hrac%C3%AD%20plocha.png)
-- ![Winning screen](https://github.com/KukolTomas/Minesweeper/blob/master/n%C4%9Bco%20jako%20winning%20screen.png)
+ ![Návrh, jak by mohla vypadat hrací plocha](https://github.com/KukolTomas/Minesweeper/blob/master/minesweeper%20hrac%C3%AD%20plocha.png)
+ ![Winning screen](https://github.com/KukolTomas/Minesweeper/blob/master/n%C4%9Bco%20jako%20winning%20screen.png)
 ------------------------------------------
 
 ## 2.4 Vymezení rozsahu - co v sw nebude
-
+- Umělá inteligence
+- Hraní po síti
+- Možnost multiplayeru
+- Mikrotransakce
+- Reklamy
+- žádná autentizace a autorizace
+- sbírání dat
 ------------------------------------------
 
 ## 2.5 Na so se nebude klást důraz
-
+- Na výkonnost, hra nebude náročná
+- Na bezpečnost - hra neběží po síti -> žádná autentizace a autorizace - > proto se nebude klást důraz na bezpečnost
 ------------------------------------------
 
 # 3. Celková hrubá architektura
@@ -57,6 +64,7 @@
 ------------------------------------------
 
 ## 3.1 Pracovní tok
+
 
 ------------------------------------------
 
