@@ -88,7 +88,7 @@
 ------------------------------------------
 
 ## 3.4 Všechny možné toky programu a jejich projevy
-
+- nerozumím tomu, co je tím myšleno
 ------------------------------------------
 
 ## 3.5 Všechny dohodnuté principy
