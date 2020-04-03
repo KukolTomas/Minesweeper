@@ -75,8 +75,14 @@
 ------------------------------------------
 
 ## 3.3 Všechny detaily : obrazovky, okna, tisky, chybové zprávy, logování
+- Návrh hrací plochy
+
  - ![Návrh, jak by mohla vypadat hrací plocha](https://github.com/KukolTomas/Minesweeper/blob/master/minesweeper%20hrac%C3%AD%20plocha.png )
+ 
+ - Návrh výherního okna
 - ![Winning screen](https://github.com/KukolTomas/Minesweeper/blob/master/n%C4%9Bco%20jako%20winning%20screen.png)
+
+- Návrh okna, kdy uživatel prohraje
 - ![Losing screen](https://github.com/KukolTomas/Minesweeper/blob/master/minesweeperLose.png "Test")
 
 ------------------------------------------
