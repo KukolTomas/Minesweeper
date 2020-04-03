@@ -21,7 +21,7 @@
 ------------------------------------------
 
 ## 1.4 Odkazy na ostatní dokumenty
-[a link](https://github.com/KukolTomas/Minesweeper/blob/master/README.md)
+[Link na SRS](https://github.com/KukolTomas/Minesweeper/blob/master/README.md)
 
 ------------------------------------------
 
@@ -40,8 +40,8 @@
 ------------------------------------------
 
 ## 2.3 Detaily, motivace, "živé" příklady
- ![Návrh, jak by mohla vypadat hrací plocha](https://github.com/KukolTomas/Minesweeper/blob/master/minesweeper%20hrac%C3%AD%20plocha.png )
- ![Winning screen](https://github.com/KukolTomas/Minesweeper/blob/master/n%C4%9Bco%20jako%20winning%20screen.png)
+ - ![Návrh, jak by mohla vypadat hrací plocha](https://github.com/KukolTomas/Minesweeper/blob/master/minesweeper%20hrac%C3%AD%20plocha.png )
+- ![Winning screen](https://github.com/KukolTomas/Minesweeper/blob/master/n%C4%9Bco%20jako%20winning%20screen.png)
 ------------------------------------------
 
 ## 2.4 Vymezení rozsahu - co v sw nebude
