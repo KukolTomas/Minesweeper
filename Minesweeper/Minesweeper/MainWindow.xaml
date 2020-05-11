@@ -1,0 +1,15 @@
+﻿<Window x:Class="Minesweeper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Minesweeper"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <Grid>
+        <Button Content="Start Hry" Margin="221,102,221,287" Width="150" Height="30" Click="Button_Click"/>
+        <Button Content="Obtížnost" Margin="221,194,221,195" Width="150" Height="30"/>
+        <Button Content="Konec Hry" Margin="221,279,221,110" Width="150" Height="30"/>
+
+    </Grid>
+</Window>
